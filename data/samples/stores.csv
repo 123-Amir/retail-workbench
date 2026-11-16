@@ -1,0 +1,9 @@
+store_id,store_name,city,region
+ST01,Mumbai Central ,Mumbai,West
+ST02,Pune Central,Pune,WEST
+ST03,Delhi Central,Delhi,North
+ST04,Chandigarh Central,Chandigarh,North
+ST05,Kolkata Central ,Kolkata,EAST
+ST06,Patna Central ,Patna,East
+ST07,Hyderabad Central ,Hyderabad,SOUTH
+ST08,Chennai Central,Chennai,South

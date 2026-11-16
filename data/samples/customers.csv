@@ -1,0 +1,205 @@
+customer_id,name,email,signup_date,city
+C0001,Customer 1,user1@example.com,2023-12-22,Kolkata
+C0002,Customer 2,user2@example.com,02/06/2024,Mumbai
+C0003,Customer 3,USER3@Example.com ,2025-04-22,Chennai
+C0004,Customer 4,USER4@Example.com ,10-12-2024,
+C0005,Customer 5,,2023-06-06,Hyderabad
+C0006,Customer 6,,07 Apr 2025,
+C0007,Customer 7,USER7@Example.com ,03-22-2024,Hyderabad
+C0008,Customer 8,USER8@Example.com ,2025-05-22,mumbai
+C0009,Customer 9,USER9@Example.com ,2025-06-21,
+C0010,Customer 10,,16/09/2024,Kolkata
+C0011,Customer 11,user11@example.com,05-21-2024,Delhi
+C0012,Customer 12,USER12@Example.com ,2023-08-06,Hyderabad
+C0013,Customer 13,USER13@Example.com ,10-14-2023,Hyderabad
+C0014,Customer 14,,2023-01-11,Pune
+C0015,Customer 15,user15@example.com,05/09/2023,
+C0016,Customer 16,,2025-02-15,
+C0017,Customer 17,,2024-12-29,Mumbai
+C0018,Customer 18,user18@example.com,2023-10-29,Pune
+C0019,Customer 19,USER19@Example.com ,2024-11-10,
+C0020,Customer 20,,2024-06-27,Kolkata
+C0021,Customer 21,USER21@Example.com ,2024-12-20,Hyderabad
+C0022,Customer 22,USER22@Example.com ,2023-08-25,Pune
+C0023,Customer 23,USER23@Example.com ,03/05/2023,Delhi
+C0024,Customer 24,user24@example.com,10/08/2023,Hyderabad
+C0025,Customer 25,,not a date,Hyderabad
+C0026,Customer 26,user26@example.com,2025-05-02,Pune
+C0027,Customer 27,USER27@Example.com ,2023-07-03,Delhi
+C0028,Customer 28,USER28@Example.com ,not a date,Hyderabad
+C0029,Customer 29,,10/05/2023,
+C0030,Customer 30,user30@example.com,2025-06-12,Hyderabad
+C0031,Customer 31,USER31@Example.com ,2024-05-05,Delhi
+C0032,Customer 32,user32@example.com,16 Sep 2023,
+C0033,Customer 33,user33@example.com,2025-04-21,
+C0034,Customer 34,user34@example.com,13/08/2024,Mumbai
+C0035,Customer 35,user35@example.com,06-02-2023,Hyderabad
+C0036,Customer 36,user36@example.com,2023-09-12,Chennai
+C0037,Customer 37,,02/09/2024,Pune
+C0038,Customer 38,,2024-01-25,
+C0039,Customer 39,USER39@Example.com ,2025-05-30,Chennai
+C0040,Customer 40,USER40@Example.com ,05/08/2024,mumbai
+C0041,Customer 41,user41@example.com,2024-10-02,mumbai
+C0042,Customer 42,user42@example.com,2023-09-03,mumbai
+C0043,Customer 43,user43@example.com,2023-01-03,
+C0044,Customer 44,USER44@Example.com ,2023-02-03,Hyderabad
+C0045,Customer 45,,2025-05-30,Pune
+C0046,Customer 46,USER46@Example.com ,17/03/2025,Pune
+C0047,Customer 47,USER47@Example.com ,2023-04-28,Delhi
+C0048,Customer 48,USER48@Example.com ,2025-04-26,Mumbai
+C0049,Customer 49,user49@example.com,2025-03-22,Hyderabad
+C0050,Customer 50,USER50@Example.com ,2023-05-08,Hyderabad
+C0051,Customer 51,,17 Feb 2024,
+C0052,Customer 52,USER52@Example.com ,2023-03-24,Chennai
+C0053,Customer 53,,27/11/2023,Mumbai
+C0054,Customer 54,user54@example.com,not a date,Mumbai
+C0055,Customer 55,,2025-04-21,Mumbai
+C0056,Customer 56,user56@example.com,2024-04-26,
+C0057,Customer 57,USER57@Example.com ,N/A,
+C0058,Customer 58,user58@example.com,2024-04-26,Kolkata
+C0059,Customer 59,USER59@Example.com ,2024-11-17,Delhi
+C0060,Customer 60,USER60@Example.com ,26/02/2024,Hyderabad
+C0061,Customer 61,,02-15-2024,Mumbai
+C0062,Customer 62,USER62@Example.com ,2023-04-01,Kolkata
+C0063,Customer 63,user63@example.com,2025-03-02,Mumbai
+C0064,Customer 64,,2025-06-09,Chennai
+C0065,Customer 65,user65@example.com,2023-07-12,
+C0066,Customer 66,,28/03/2024,Pune
+C0067,Customer 67,USER67@Example.com ,2024-07-16,Hyderabad
+C0068,Customer 68,USER68@Example.com ,20/06/2025,mumbai
+C0069,Customer 69,user69@example.com,07/10/2024,Pune
+C0070,Customer 70,,2023-06-12,Mumbai
+C0071,Customer 71,,2024-02-22,mumbai
+C0072,Customer 72,USER72@Example.com ,01/05/2023,Delhi
+C0073,Customer 73,USER73@Example.com ,2025-01-03,Hyderabad
+C0074,Customer 74,USER74@Example.com ,2025-05-04,
+C0075,Customer 75,user75@example.com,2024-04-12,Chennai
+C0076,Customer 76,user76@example.com,2024-09-05,Delhi
+C0077,Customer 77,user77@example.com,10/10/2023,Chennai
+C0078,Customer 78,USER78@Example.com ,2025-03-17,Mumbai
+C0079,Customer 79,USER79@Example.com ,2025-01-13,
+C0080,Customer 80,user80@example.com,2024-04-02,Kolkata
+C0081,Customer 81,USER81@Example.com ,19/07/2024,Chennai
+C0082,Customer 82,USER82@Example.com ,11-26-2023,Pune
+C0083,Customer 83,,2024-01-28,Chennai
+C0084,Customer 84,user84@example.com,22/11/2023,Chennai
+C0085,Customer 85,USER85@Example.com ,10/11/2024,Delhi
+C0086,Customer 86,USER86@Example.com ,2023-02-07,Kolkata
+C0087,Customer 87,user87@example.com,06-14-2025,mumbai
+C0088,Customer 88,,2024-04-12,Delhi
+C0089,Customer 89,USER89@Example.com ,10/06/2025,Delhi
+C0090,Customer 90,user90@example.com,25/04/2024,Hyderabad
+C0091,Customer 91,USER91@Example.com ,30/09/2024,mumbai
+C0092,Customer 92,USER92@Example.com ,22/05/2025,Chennai
+C0093,Customer 93,USER93@Example.com ,03/10/2024,
+C0094,Customer 94,,06/02/2023,Pune
+C0095,Customer 95,,01 Dec 2024,Pune
+C0096,Customer 96,,2023-04-03,mumbai
+C0097,Customer 97,,12-21-2024,
+C0098,Customer 98,user98@example.com,2024-12-11,Mumbai
+C0099,Customer 99,user99@example.com,29/11/2023,Hyderabad
+C0100,Customer 100,USER100@Example.com ,2024-01-19,Pune
+C0101,Customer 101,,2024-02-26,Delhi
+C0102,Customer 102,user102@example.com,2023-06-29,Chennai
+C0103,Customer 103,,2024-11-30,Delhi
+C0104,Customer 104,user104@example.com,17/04/2024,
+C0105,Customer 105,USER105@Example.com ,2024-11-13,
+C0106,Customer 106,USER106@Example.com ,2024-11-24,mumbai
+C0107,Customer 107,USER107@Example.com ,N/A,Chennai
+C0108,Customer 108,,2023-09-14,Hyderabad
+C0109,Customer 109,user109@example.com,01-29-2024,mumbai
+C0110,Customer 110,user110@example.com,2024-01-26,Hyderabad
+C0111,Customer 111,,2023-10-30,Chennai
+C0112,Customer 112,USER112@Example.com ,2023-01-09,Mumbai
+C0113,Customer 113,,2025-02-02,Hyderabad
+C0114,Customer 114,user114@example.com,09-13-2024,Pune
+C0115,Customer 115,,14/07/2023,Delhi
+C0116,Customer 116,,10 Apr 2023,Mumbai
+C0117,Customer 117,USER117@Example.com ,2025-03-18,Kolkata
+C0118,Customer 118,,2023-05-15,Hyderabad
+C0119,Customer 119,USER119@Example.com ,2025-02-04,Pune
+C0120,Customer 120,user120@example.com,2025-03-16,Kolkata
+C0121,Customer 121,,28 May 2024,Delhi
+C0122,Customer 122,USER122@Example.com ,24 Apr 2025,Hyderabad
+C0123,Customer 123,,2025-06-10,mumbai
+C0124,Customer 124,USER124@Example.com ,2023-03-19,Pune
+C0125,Customer 125,,11/01/2025,Chennai
+C0126,Customer 126,,2024-01-10,Chennai
+C0127,Customer 127,user127@example.com,2023-09-28,
+C0128,Customer 128,USER128@Example.com ,19/11/2024,Hyderabad
+C0129,Customer 129,,01-26-2024,Kolkata
+C0130,Customer 130,user130@example.com,2024-11-22,Mumbai
+C0131,Customer 131,,24 Jun 2025,Kolkata
+C0132,Customer 132,,15/08/2023,
+C0133,Customer 133,,06/11/2023,mumbai
+C0134,Customer 134,user134@example.com,16 Feb 2023,Hyderabad
+C0135,Customer 135,USER135@Example.com ,2023-04-29,Delhi
+C0136,Customer 136,USER136@Example.com ,2024-04-09,Chennai
+C0137,Customer 137,,30/01/2025,Chennai
+C0138,Customer 138,,04-12-2023,Chennai
+C0139,Customer 139,USER139@Example.com ,03/02/2023,Pune
+C0140,Customer 140,USER140@Example.com ,N/A,mumbai
+C0141,Customer 141,,2024-01-12,Kolkata
+C0142,Customer 142,user142@example.com,2024-02-12,mumbai
+C0143,Customer 143,USER143@Example.com ,04/04/2023,Mumbai
+C0144,Customer 144,user144@example.com,2025-03-16,Delhi
+C0145,Customer 145,,2023-07-30,Pune
+C0146,Customer 146,,08-10-2023,Pune
+C0147,Customer 147,USER147@Example.com ,2025-03-03,Mumbai
+C0148,Customer 148,USER148@Example.com ,,Hyderabad
+C0149,Customer 149,user149@example.com,23/04/2023,Mumbai
+C0150,Customer 150,user150@example.com,2023-01-16,Pune
+C0151,Customer 151,,2023-11-28,Hyderabad
+C0152,Customer 152,user152@example.com,10/05/2023,mumbai
+C0153,Customer 153,,2023-03-07,Kolkata
+C0154,Customer 154,,2024-08-30,Pune
+C0155,Customer 155,,14/02/2023,Hyderabad
+C0156,Customer 156,USER156@Example.com ,,
+C0157,Customer 157,USER157@Example.com ,12/03/2024,
+C0158,Customer 158,,2024-03-30,mumbai
+C0159,Customer 159,USER159@Example.com ,2024-09-14,Delhi
+C0160,Customer 160,USER160@Example.com ,01/10/2024,Kolkata
+C0161,Customer 161,USER161@Example.com ,2024-09-03,
+C0162,Customer 162,,2024-09-11,mumbai
+C0163,Customer 163,,10-28-2024,Pune
+C0164,Customer 164,USER164@Example.com ,04-07-2024,Chennai
+C0165,Customer 165,USER165@Example.com ,2025-04-27,Chennai
+C0166,Customer 166,,2023-04-08,Kolkata
+C0167,Customer 167,,2023-09-19,Delhi
+C0168,Customer 168,,2024-04-30,mumbai
+C0169,Customer 169,user169@example.com,2024-03-18,Kolkata
+C0170,Customer 170,user170@example.com,2024-07-23,Kolkata
+C0171,Customer 171,,2023-05-06,Chennai
+C0172,Customer 172,,not a date,Hyderabad
+C0173,Customer 173,USER173@Example.com ,2023-04-17,Pune
+C0174,Customer 174,user174@example.com,2024-11-03,mumbai
+C0175,Customer 175,USER175@Example.com ,2025-05-15,mumbai
+C0176,Customer 176,USER176@Example.com ,2024-08-10,Chennai
+C0177,Customer 177,,02-24-2025,Mumbai
+C0178,Customer 178,,11-04-2024,Hyderabad
+C0179,Customer 179,user179@example.com,2023-07-04,Hyderabad
+C0180,Customer 180,USER180@Example.com ,2023-12-26,Delhi
+C0181,Customer 181,,2024-11-04,Delhi
+C0182,Customer 182,,,Pune
+C0183,Customer 183,USER183@Example.com ,2024-03-05,Delhi
+C0184,Customer 184,USER184@Example.com ,16/11/2023,mumbai
+C0185,Customer 185,user185@example.com,2023-06-09,Mumbai
+C0186,Customer 186,,2023-03-25,Chennai
+C0187,Customer 187,USER187@Example.com ,2024-09-13,Hyderabad
+C0188,Customer 188,user188@example.com,2025-02-12,Kolkata
+C0189,Customer 189,USER189@Example.com ,2023-04-24,
+C0190,Customer 190,,2024-11-14,Pune
+C0191,Customer 191,USER191@Example.com ,2024-09-05,Pune
+C0192,Customer 192,USER192@Example.com ,05/08/2023,Hyderabad
+C0193,Customer 193,USER193@Example.com ,2023-12-02,
+C0194,Customer 194,,2024-03-16,Chennai
+C0195,Customer 195,,2024-12-21,Kolkata
+C0196,Customer 196,user196@example.com,02-11-2024,Mumbai
+C0197,Customer 197,USER197@Example.com ,2023-01-20,mumbai
+C0198,Customer 198,USER198@Example.com ,2024-08-12,Chennai
+C0199,Customer 199,,2024-10-17,mumbai
+C0200,Customer 200,USER200@Example.com ,,
+C0177,Customer 177,,02-24-2025,Mumbai
+C0093,Customer 93,USER93@Example.com ,03/10/2024,
+C0023,Customer 23,USER23@Example.com ,03/05/2023,Delhi
+C0112,Customer 112,USER112@Example.com ,2023-01-09,Mumbai
